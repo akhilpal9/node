@@ -1,0 +1,22 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "Demo to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilpal9/node.git"
+  },
+  "author": "Akhilesh Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilpal9/node/issues"
+  },
+  "homepage": "https://github.com/akhilpal9/node#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
